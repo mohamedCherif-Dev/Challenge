@@ -1,0 +1,59 @@
+.attribution { font-size: 11px; text-align: center; }
+
+.attribution a { color: hsl(228, 45%, 44%); }
+
+body{background-color: #0d162b;}
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {color: rgb(172, 168, 168);
+    margin-left: 20px}
+
+#title {color: white;;}
+
+#jules {color: white;
+               }
+
+#eth {color: turquoise;}
+
+#our{flex-wrap: wrap;}
+
+#avatar {border: 1px solid black;
+            border-radius: 50%;
+            border-color: white;
+            }
+
+
+#time{text-align: right;
+        margin-right: 20px;
+        
+        }
+
+#card {border: 2px none black;
+        border-radius: 10px;
+        background-color: #192642;
+        box-shadow: rgba(0, 0, 0, 0.623) 0px 10px 30px;
+        width: 20%;
+        
+        justify-content:center ;
+        margin: 0 auto;
+        margin-top: 10%;
+        margin-bottom: 20%;
+    }
+
+#equilibrium {border-radius: 10px;
+                margin: 30px;
+                width: 85%;
+                margin-left: 7%;
+                box-shadow: rgb(0, 0, 0) 0px 5px 15px;}
+
+.centrer{
+    position: relative;
+    bottom: 2px;
+}
+#p {
+    position: relative;
+    bottom: 2px;
+}
